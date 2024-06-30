@@ -1,0 +1,76 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Cuando usar let,var y const",
+            "video": "https://www.youtube.com/watch?v=PztCEdIJITY",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/17ef/6f4a/12b3502a7d7a91f629b08d1082a16d1d?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nXu4BFIGvl~Tu9rstqE~tP5TIq3k8tCaAMFLxQraZdqVZH8dWY4kgRag4uk-vCENork6VSiJgBezDmhdRrMNmSQOcAbhxU1E5F-HYxSmhAowu7YXG8XEHDHGSXEUcfJsjxwQJpKZYsBqfHtaIRNsRgCF7cBuyD5lMya2VRQyhrWXtn~gsiqcyfODGKpGLIvfde8uKPjz4lNBeZtdGsFjeK4BNdLdHW1Wn4SvqpVoi9C5oBY6xvlNLwe4d30lJSTTI3XjL7zrJD~QRfK9ya2uBosLzMsOFSnwlFLNej~D-Tl6dgcoWqGsvk4K72r4tjK5rF-O54kKFSQQbe-BVzgvzA__",
+            "categoria": "Front End",
+            "descripcion": "Cuando y como usar let, var y const en javaScript"
+        },
+        {
+            "id": 2,
+            "titulo": "Que es javascript",
+            "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s&t=433s",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/e242/5f5d/888e71def9f20895b46879eb33916fc1?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WNj2IWriGmR5d-kblj5Rmi34aPJaiUv3WR~J7-y5sa6xbCnC2xuFSFrYNntYh8cEEBvhJy57rkUORNDaylV8zSc2~74ghnnh~wx0xT38MzyUjILl-foHWZ6qElLwycqdVNz8DO3kkboFKWeTdypILQhudeGpgGAcv0xPXKGkdH7a5GqljWGyv5~nZmH7Dq9o4Cv1iWiabwZCwkVXcJ8pPZ8Oc8Mnb6bzrvzWTmkFQfl8RuM3qDeZ0~nHNtzUgcoyWJcz1regLRvGDGI-NXsLUVGfJBOrPShvPOd~ajpPn5S83fkV77AJYbj41rkXGk3h-8eqR4gW4YhPp~WjqH~NzA__",
+            "categoria": "Front End",
+            "decripcion": "Qués es JavaScript y como se hizo este lenguaje"
+        },
+        {
+            "id": 3,
+            "titulo": "Equipo front end",
+            "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/30b7/4d8c/9590129a76e47e70bf82c5f7443ba2e5?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DI8VWy9F~zJLbB-zyeFNEhs7ReQxfOS3FdgSAoe2A~hrZ-~cU7iCc5GZfbTPWmvmlTWuWa0jtUUbIgKkwQoZrY0zJX~LvVIYOu56X3Q7sUR~dU2aFZgrCwbjCcKU3GtIRpCE9gvrde1tStc3b-WqRlM2f-V9ewn0t2X9bS76t36xpPoifFmTE28Ape7k-35JNlHaEOkrOKQLAgvTLsS0d5XBT0AhSJpu~ykeigb8Xj2AxgpR2MXeS0UODLB4XZgIAPvaKAJW0mSpfwmxHeNxiGX8AZMc9rkOX~n~bVN69tR4mHvE1ULopKKf7CJHj7Z5Yet6QMS-XXvdTvgkM7gSNg__",
+            "categoria": "Front End",
+            "descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
+        },
+        {
+            "id": 4,
+            "titulo": "Spring Framework.",
+            "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/5c36/0e4d/e45012ea2655f5bfef23d860d1bf9828?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QwYJXEi9KqlXqkxBvzuxbmn31QpcYXjSFA-z0AxyDYWDlG4Q-wxG50a27CYUFXc0WzntmlI3LmgAqhujnaCft5MPQMf~m-6bqeuBYo5IB2GjDcga6o2V1aYS8s3Rf5Q7BfzpkAK9zxNjm0xh0LqrhU8snuHxdt94ziCELtGP1IRGLquuoDgUFn0~iJxU6T~WRvWqfmpzs~PYziNYJLxSopnBIo8IjdvbHL58V-BTawV5EdIZ2YQd6G7ob7-gRW-FMO1oDZSxUDiaT6564nPKJ1OR-KvUwGOL3d1fcjV3Jkm3IkMy5EDZ-JRyGgUjlIPWxqQX7mio8q5Yym5TDAfz7A__",
+            "categoria": "BackEnd",
+            "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework?"
+        },
+        {
+            "id": 5,
+            "titulo": "Qué es SQL y NOSQL",
+            "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/803d/6df1/644ac12d062ee849c9554deb430e15b1?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IIcc7Ia5i8rbncNlQJQEC0KSnYH1-IkqCeG7cM0DCpJVh7wVa9SiyxO1UPQCDRogMlofVqEPbZ3QXlzlsR1kbDhxMom3fvVEPaAe9Qg6hxgHR0jzI8fYEWs3qGqy5N6CMXCHGGgCqOFj8l4BcrepD2O0RKGTo1WWjRGyqvP-7wnLl8ko3zR54IddLYB2y5Ssn8AhQhBTG~PKk0~zq0QS87ju7pGKaQ3w2hqs7~I9ML-qdfX5-MkffLVhIW3NQ66ujWROVyiPWPj3TTDUO0QL9smQV2wGJ6u2--pqLoKmuNbKTOT0t~BKzohNFHZcvcxgf0AXwPMKSePRNSWhMJZBsg__",
+            "categoria": "BackEnd",
+            "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+        },
+        {
+            "id": 6,
+            "titulo": "Simplificando tu código en Java. Conoce los enum",
+            "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/bf26/2f6b/8192ae9a1f2d9e83e309b093de28ef61?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MSvg8SqMSbtXvFXICOyNvQ7~mKsEhRbnrYDwn5nZE-XYBSiXGdierfUVHbdouvUV8REXgNK1xipN~aKLZ7xSIuYaVXKa84fjHrXos2ufCOdouBiV7IJsKydJwQ2dfcxdLuS8qfhKIPWhkSPnnTRgjOY~mp~D6NU8MhBoZpXrynw9LAOd8w4UONwKd7HerTc7jH4sm8NslocYupfkmiHrrwqrewv4ND0VIagNbZ39AHTI9yWAhyhidyUBIq~bXHBIbLMeIfQIeo90FzNZksYmN-r4KBwR-ts2RIIftVwhAi-pobLc4ymPYUzXq~LwgacH7IowTzdPDBlCmW96DMkhxA__",
+            "categoria": "BackEnd",
+            "descripcion": "En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum."
+        },
+        {
+            "id": 8,
+            "titulo": "Que son las softs skills",
+            "video": "https://www.youtube.com/watch?v=vhwspfvI52k&t=189s",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/6b75/3265/a42a7c49fb0b17eb66b63104fe15c7fc?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nhU0LZgXqx6uZj4cRhgoVvlJyNJX8LuhbGbDbHArP1Ak0i~WnX5J0zhkOb4057Gd1zuErm8HEbh9XEO9WhI~xVHJ0A5epQuWxPs86fZE32i3RdIC2r13pjaLILzDJjYy1ZhFOvNa0rtTJ9oewyearWyvI6HNIIOTgtVuWki6p438ggkqBSaiZxjE4GtuwRWwVhuHxTcdK7eokYOh5hDu4aDDuQ4wBkHhmljErWhSE6Lm7f42HGy7-6QuY-8oOhV7PAft7Y7eUwl6yyBGVtg5e9XT~Bhn~GMgCiicvG4FpnOG-dfh4apmURvzpO9D54~eJoEHE-ltXJXU2wFtPvzMIA__",
+            "categoria": "Innovacion y Gestion",
+            "descripcion": "En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+        },
+        {
+            "id": 9,
+            "titulo": "7 Soft Skills más deseadas por las empresas",
+            "video": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/17db/da7d/3013bfab5941db6070df20b64d03c2e8?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZHzRk6XHTvmrAq8846OONdkKAr5CyaxKf4lGAetYLi~p7x~fJIdjHXFFZ0kNhYlbvAcQQWEALiSRKvtp2xcq93IbkefCMEjJkPwbffTWJl2MVxYFviSoJTwR6d7u2vsc0KnHDe1sQIgyfMfTr9bzArfO5lodVbZLJ5jkmTqCipacICM2IBcMDOmFOY8PTwPU9thqJVFpQwKk4QTjGmuJIq4llKBXkw2hNE8cHkkxsjkfpI3BFs7UISzJaIxY1cxL77inMPeCI4EkGSsjWa3AnG5HiPybN6ROwlI~o5SXa8igFm8ZKjiv3gcfupZyipuPeuron4u4EGKYhfXlYmD~3Q__",
+            "categoria": "Innovacion y Gestion",
+            "descripcion": "¿Sabes cuáles son las 7 más buscadas por las empresas?"
+        },
+        {
+            "id": 10,
+            "titulo": "Metodologias Ágiles ",
+            "video": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+            "imagenVideo": "https://s3-alpha-sig.figma.com/img/2237/ac5d/6ce7a82bd074f782e0d03ce2eae65ade?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CkofUF8z0axv~1-S2kQmii5X3RZb0Djcj5FW5nCecWkjiDt5Id0yRqZJCLdDcAQ5Sg90lKYHw3BvTOMdvHBwx4-~xhhwkYtUmu~93lGPVLuj7Fuk7Gl2ShfKRaoqMt1TvG3e4Aui7RVvnUiSh0KD4hnWLuGHyqp7v-VdcfwpfoK6izsLEIoEJlPoROGPCddkz09uZ0ZnRGDlDhv0qVhfAZTwKjNL7U-Ek4w-jZ4skNiJLci2ULlvGpL0MOAe0t-CmePmTclY6wEYVp61syIR6Jy9ii12KadS7HJPC92lCXrqG3dawixtmq~wQY~VP0Q36il-qvHImONdKt7kVKEIBA__",
+            "categoria": "Innovacion y Gestion",
+            "descripcion": "Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
+        }
+    ]
+}
