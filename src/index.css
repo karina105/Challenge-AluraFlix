@@ -1,0 +1,23 @@
+:root {
+  --font: "Roboto", sans-serif;
+  --dark-grey: #262626;
+  --black: #000000E5;
+  --blue: #2271D1;
+  --white: #FFFFFF;
+  --dark-blue: #03122F;
+  --color-button-home: red;
+  --color-button-nuevoVideo: white;
+  --color-button-guardar: red;
+  --color-button-limpiar: white;
+  --color-backend: #00C86F;
+  --color-frontend: #6BD1FF;
+  --color-innovacionygestion: #FFBA05;
+
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
